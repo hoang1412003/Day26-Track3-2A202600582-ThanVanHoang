@@ -1,5 +1,7 @@
 # Lab: Build a Database MCP Server with FastMCP and SQLite
 
+Submission note: see [IMPLEMENTATION.md](IMPLEMENTATION.md) for the completed implementation, setup commands, verification steps, and MCP client examples.
+
 ## Goal
 
 Build a Model Context Protocol (MCP) server using FastMCP that exposes a small database through:
